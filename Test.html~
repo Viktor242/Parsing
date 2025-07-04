@@ -13,7 +13,7 @@
 
  <h2>Моё фото</h2>
 
- <img src = "foto.jpg" alt="Моё фото" width="200">
+ <img src = "foto.jpeg" alt="Моё фото" width="200">
 
   <h2>Полезные сайты</h2>
   <ul>
